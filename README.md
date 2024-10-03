@@ -1,4 +1,4 @@
-# UT24 UTFR-Mechanical-Braking-System-Manufacturing and Integration
+# UT24 UTFR-Mechanical-Braking-System-Manufacturing and Integration (UT24 - Owner: UT24 Brakes Lead - Mo Taban)
 
 1.0 Throttle Pedal
 
